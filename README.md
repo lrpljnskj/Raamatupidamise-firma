@@ -9,3 +9,4 @@ Raamatupidamis firma
 * **Kasuatjate arv:** 11
 * **Ettevõtte tüüp:** Raamatupidamis firma
 * **Eritingimus:** Kaugtöö on vajalik
+* **Süsteem:** Windows server
